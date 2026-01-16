@@ -19,7 +19,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@persistr/js": "^3.13.0"
+    "@persistr/js": "^4.13.4"
   },
   "scripts": {
     "ridehail": "node ridehail/main.js",
